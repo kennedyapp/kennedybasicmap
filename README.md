@@ -12,5 +12,5 @@ Processing available from http://processing.org
 
 Unfolding library for Processing 2.0. This is available from http://unfoldingmaps.org/rca
 
-OpenCSV Library from http://opencsv.sourceforge.net
+OpenCSV Library from http://opencsv.sourceforge.net (Use the jar file inside the deploy folder)
 
